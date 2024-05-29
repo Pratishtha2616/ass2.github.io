@@ -1,0 +1,31 @@
+*{
+    padding: 5px;
+    margin:5px;
+    box-sizing: border-box;
+}
+
+#user-data {
+    display: none;
+    margin-top: 25px;
+ } 
+
+.card {
+    border-radius: 100px;
+    padding: 20px;
+    max-width: 600px;
+    margin: 0 auto;
+    height: 600px;
+    text-align: center;
+    background-color:darksalmon; 
+    color: Black; 
+}
+
+.card p{
+    font-weight: 150;
+}
+.card h2 {
+    margin-bottom: 10px;
+}
+.card p {
+    margin: 10px 0;
+}
